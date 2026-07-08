@@ -78,7 +78,13 @@ If you encounter any issues:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Maclean-D/obsidian-limitless-lifelogs&type=Date)](https://star-history.com/#Maclean-D/obsidian-limitless-lifelogs&Date)
+<a href="https://www.star-history.com/?repos=Maclean-D%2Fobsidian-limitless-lifelogs&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Maclean-D/obsidian-limitless-lifelogs&type=date&theme=dark&legend=top-left&sealed_token=n0qnDUpZGvp6y_j0NpoDcTvohZJ0tocsgfpskhjAPGqYY0mSleeunkuQ8dm8HcZi5aCR2D_OHiD8q1Bz4pnUHiXo48HcWKIHPHFUgls95HtHhPnjnuwr5lsOOBjrenFeB0jwJjXP3aNhafiFlspD5WjXA1VVf1XqIO6Yktr2CBHPrSLgqq0YJZqhctEe" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Maclean-D/obsidian-limitless-lifelogs&type=date&legend=top-left&sealed_token=n0qnDUpZGvp6y_j0NpoDcTvohZJ0tocsgfpskhjAPGqYY0mSleeunkuQ8dm8HcZi5aCR2D_OHiD8q1Bz4pnUHiXo48HcWKIHPHFUgls95HtHhPnjnuwr5lsOOBjrenFeB0jwJjXP3aNhafiFlspD5WjXA1VVf1XqIO6Yktr2CBHPrSLgqq0YJZqhctEe" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Maclean-D/obsidian-limitless-lifelogs&type=date&legend=top-left&sealed_token=n0qnDUpZGvp6y_j0NpoDcTvohZJ0tocsgfpskhjAPGqYY0mSleeunkuQ8dm8HcZi5aCR2D_OHiD8q1Bz4pnUHiXo48HcWKIHPHFUgls95HtHhPnjnuwr5lsOOBjrenFeB0jwJjXP3aNhafiFlspD5WjXA1VVf1XqIO6Yktr2CBHPrSLgqq0YJZqhctEe" />
+ </picture>
+</a>
 
 ## Contributors
 
